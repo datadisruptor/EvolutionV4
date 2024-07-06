@@ -1,4 +1,4 @@
 
-script_key = Evolution.Loader.Key
 
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/9c6d34a1799b38748e812663550eb48c.lua"))()
+
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/f82668b9b3b569e8af8bdcb88c1b337a.lua"))()
